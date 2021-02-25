@@ -1,0 +1,18 @@
+{
+  "name": "docs-app",
+  "private": true,
+  "version": "7.4.0",
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.5.0",
+    "webpack": "^5.24.2",
+    "yarn": "^1.22.10",
+    "babel-loader": "^8.2.2",
+    "@babel/core": "^7.13.1"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.13.7"
+  }
+}
